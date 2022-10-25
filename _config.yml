@@ -95,17 +95,18 @@ _array_structures:
         icon: emoji_nature
         value: 
           _section-type: fig-hover-block
-          colors:
+           colors:
             overlay-color: 
             background-color:
+            hover-overlay-color:
             border-color: 
             heading-color:
-            description: This subheading color is for the mobile version only. To change the subheading color on the laptop and desktop version, change the "hover text color". This will also change the color of the text. 
-            subheading-color:
-            hover-text-color: 
-            on-mobile-text-color:
+            hover-text-color:   
             button-background-color:
             button-text-color:
+            description: This subheading color is for the mobile version only. To change the subheading color on the laptop and desktop version, change the "hover text color". This will also change the color of the text. 
+            subheading-color:
+            on-mobile-text-color:
           border-radius:
             laptop:  
               top-left-corner:
@@ -147,12 +148,12 @@ _array_structures:
             hover-overlay-color:
             border-color: 
             heading-color:
-            description: This subheading color is for the mobile version only. To change the subheading color on the laptop and desktop version, change the "hover text color". This will also change the color of the text. 
-            subheading-color: 
-            hover-text-color: 
-            on-mobile-text-color: 
+            hover-text-color:   
             button-background-color:
             button-text-color:
+            description: This subheading color is for the mobile version only. To change the subheading color on the laptop and desktop version, change the "hover text color". This will also change the color of the text. 
+            subheading-color:
+            on-mobile-text-color:
           border-radius:
             laptop:  
               top-left-corner: 
