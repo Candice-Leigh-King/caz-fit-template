@@ -95,7 +95,7 @@ _array_structures:
         icon: emoji_nature
         value: 
           _section-type: fig-hover-block
-           colors:
+          colors:
             overlay-color: 
             background-color:
             hover-overlay-color:
