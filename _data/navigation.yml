@@ -8,7 +8,7 @@ colors:
   textarea-background-color: '#ffffff'
   border-color: '#ffffff'
   link-color: '#2f3031'
-  hover-link-color: '#ffffff'
+  hover-link-color: '#48d75f'
   exit-color: '#ffffff'
   exit-hover-color: '#48d75f'
 border-radius:
